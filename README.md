@@ -1,0 +1,2 @@
+# STX FDocs plugin
+
